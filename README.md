@@ -8,4 +8,4 @@ This repository contains data from different research projects associated with t
 ---
 
 ## File descriptions
-- difuse-workshop-data-x22.csv:  Survey data from participants in a DIFUSE faculty development workshop in July 2022.
+- _difuse-workshop-data-x22.csv_:  Survey data from participants in a DIFUSE faculty development workshop in July 2022.
