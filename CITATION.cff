@@ -14,8 +14,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-4934-1864"
 - family-names: "Laura"
   given-names: "Ray"
-  orcid: "https://orcid.org/0000-0002-0281-2868"
-  title: "DIFUSE Project Data"
+title: "DIFUSE Project Data"
 version: 1.1
 doi: 10.5281/zenodo.632463532
 date-released: 2023-4-22
