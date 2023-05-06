@@ -10,5 +10,5 @@ As part of the project, we have also run workshops to both disseminate our work 
 
 ---
 
-## File descriptions
-- _difuse-workshop-data-x22.csv_:  Survey data from participants in a DIFUSE faculty development workshop in July 2022.
+## Contents
+-_workshop-data-2022_ contains data files for the workshop survey and interviews.
